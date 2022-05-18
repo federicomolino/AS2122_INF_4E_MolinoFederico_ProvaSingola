@@ -17,5 +17,9 @@ namespace AS2122_INF_4E_MolinoFederico_ProvaSingola
             InitializeComponent();
         }
 
+        private void lstbox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
