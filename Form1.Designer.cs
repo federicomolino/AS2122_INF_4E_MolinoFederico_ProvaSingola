@@ -87,6 +87,7 @@ namespace AS2122_INF_4E_MolinoFederico_ProvaSingola
             this.txtbox1.Name = "txtbox1";
             this.txtbox1.Size = new System.Drawing.Size(100, 23);
             this.txtbox1.TabIndex = 4;
+            this.txtbox1.TextChanged += new System.EventHandler(this.txtbox1_TextChanged);
             // 
             // txtbox2
             // 
@@ -94,6 +95,7 @@ namespace AS2122_INF_4E_MolinoFederico_ProvaSingola
             this.txtbox2.Name = "txtbox2";
             this.txtbox2.Size = new System.Drawing.Size(100, 23);
             this.txtbox2.TabIndex = 5;
+            this.txtbox2.TextChanged += new System.EventHandler(this.txtbox2_TextChanged);
             // 
             // txtbox3
             // 

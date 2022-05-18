@@ -21,5 +21,15 @@ namespace AS2122_INF_4E_MolinoFederico_ProvaSingola
         {
 
         }
+
+        private void txtbox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtbox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
